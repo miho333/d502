@@ -1,0 +1,3585 @@
+{
+  "BEAAPI": {
+    "Request": {
+      "RequestParam": [
+        {
+          "ParameterName": "USERID",
+          "ParameterValue": "9F79D615-85ED-4848-9C5A-64296FC65621"
+        },
+        {
+          "ParameterName": "METHOD",
+          "ParameterValue": "GETDATA"
+        },
+        {
+          "ParameterName": "DATASETNAME",
+          "ParameterValue": "REGIONAL"
+        },
+        {
+          "ParameterName": "TABLENAME",
+          "ParameterValue": "MARPP"
+        },
+        {
+          "ParameterName": "LINECODE",
+          "ParameterValue": "1"
+        },
+        {
+          "ParameterName": "GEOFIPS",
+          "ParameterValue": "MSA"
+        },
+        {
+          "ParameterName": "YEAR",
+          "ParameterValue": "2024"
+        },
+        {
+          "ParameterName": "RESULTFORMAT",
+          "ParameterValue": "JSON"
+        }
+      ]
+    },
+    "Results": {
+      "Statistic": "RPPs: All items",
+      "UnitOfMeasure": "Index",
+      "PublicTable": "MARPP Regional price parities by MSA",
+      "UTCProductionTime": "2026-08-02T11:59:51.870",
+      "NoteRef": " ",
+      "Dimensions": [
+        {
+          "Name": "Code",
+          "DataType": "string",
+          "IsValue": "0"
+        },
+        {
+          "Name": "GeoFips",
+          "DataType": "string",
+          "IsValue": "0"
+        },
+        {
+          "Name": "GeoName",
+          "DataType": "string",
+          "IsValue": "0"
+        },
+        {
+          "Name": "TimePeriod",
+          "DataType": "string",
+          "IsValue": "0"
+        },
+        {
+          "Name": "DataValue",
+          "DataType": "numeric",
+          "IsValue": "1"
+        },
+        {
+          "Name": "CL_UNIT",
+          "DataType": "string",
+          "IsValue": "0"
+        },
+        {
+          "Name": "UNIT_MULT",
+          "DataType": "numeric",
+          "IsValue": "0"
+        }
+      ],
+      "Data": [
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "10180",
+          "GeoName": "Abilene, TX (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "90.364"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "10420",
+          "GeoName": "Akron, OH (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "93.370"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "10500",
+          "GeoName": "Albany, GA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "87.669"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "10540",
+          "GeoName": "Albany, OR (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "102.100"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "10580",
+          "GeoName": "Albany-Schenectady-Troy, NY (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "99.566"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "10740",
+          "GeoName": "Albuquerque, NM (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "95.546"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "10780",
+          "GeoName": "Alexandria, LA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "85.686"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "10900",
+          "GeoName": "Allentown-Bethlehem-Easton, PA-NJ (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "99.968"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "11020",
+          "GeoName": "Altoona, PA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "89.507"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "11100",
+          "GeoName": "Amarillo, TX (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "91.820"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "11180",
+          "GeoName": "Ames, IA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "88.830"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "11200",
+          "GeoName": "Amherst Town-Northampton, MA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "100.243"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "11260",
+          "GeoName": "Anchorage, AK (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "105.420"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "11460",
+          "GeoName": "Ann Arbor, MI (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "100.880"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "11500",
+          "GeoName": "Anniston-Oxford, AL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "85.949"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "11540",
+          "GeoName": "Appleton, WI (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "92.419"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "11700",
+          "GeoName": "Asheville, NC (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "96.506"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "12020",
+          "GeoName": "Athens-Clarke County, GA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "93.343"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "12060",
+          "GeoName": "Atlanta-Sandy Springs-Roswell, GA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "100.058"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "12100",
+          "GeoName": "Atlantic City-Hammonton, NJ (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "98.857"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "12220",
+          "GeoName": "Auburn-Opelika, AL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "87.933"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "12260",
+          "GeoName": "Augusta-Richmond County, GA-SC (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "91.903"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "12420",
+          "GeoName": "Austin-Round Rock-San Marcos, TX (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "98.066"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "12540",
+          "GeoName": "Bakersfield-Delano, CA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "100.886"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "12580",
+          "GeoName": "Baltimore-Columbia-Towson, MD (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "104.487"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "12620",
+          "GeoName": "Bangor, ME (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "96.508"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "12700",
+          "GeoName": "Barnstable Town, MA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "98.351"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "12940",
+          "GeoName": "Baton Rouge, LA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "90.780"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "12980",
+          "GeoName": "Battle Creek, MI (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "90.541"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "13020",
+          "GeoName": "Bay City, MI (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "91.921"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "13140",
+          "GeoName": "Beaumont-Port Arthur, TX (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "90.046"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "13220",
+          "GeoName": "Beckley, WV (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "88.369"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "13380",
+          "GeoName": "Bellingham, WA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "103.334"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "13460",
+          "GeoName": "Bend, OR (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "103.607"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "13740",
+          "GeoName": "Billings, MT (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "93.526"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "13780",
+          "GeoName": "Binghamton, NY (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "92.863"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "13820",
+          "GeoName": "Birmingham, AL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "91.644"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "13900",
+          "GeoName": "Bismarck, ND (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "91.024"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "13980",
+          "GeoName": "Blacksburg-Christiansburg-Radford, VA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "92.710"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "14010",
+          "GeoName": "Bloomington, IL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "93.537"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "14020",
+          "GeoName": "Bloomington, IN (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "95.084"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "14260",
+          "GeoName": "Boise City, ID (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "98.391"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "14460",
+          "GeoName": "Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "108.266"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "14500",
+          "GeoName": "Boulder, CO (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "105.202"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "14540",
+          "GeoName": "Bowling Green, KY (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "90.179"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "14580",
+          "GeoName": "Bozeman, MT (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "102.510"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "14740",
+          "GeoName": "Bremerton-Silverdale-Port Orchard, WA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "105.607"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "14860",
+          "GeoName": "Bridgeport-Stamford-Danbury, CT Metropolitan Statistical Area",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "106.864"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "15180",
+          "GeoName": "Brownsville-Harlingen, TX (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "85.975"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "15260",
+          "GeoName": "Brunswick-St. Simons, GA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "87.708"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "15380",
+          "GeoName": "Buffalo-Cheektowaga, NY (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "95.844"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "15500",
+          "GeoName": "Burlington, NC (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "93.196"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "15540",
+          "GeoName": "Burlington-South Burlington, VT (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "100.949"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "15940",
+          "GeoName": "Canton-Massillon, OH (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "89.406"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "15980",
+          "GeoName": "Cape Coral-Fort Myers, FL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "102.349"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "16020",
+          "GeoName": "Cape Girardeau, MO-IL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "86.078"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "16180",
+          "GeoName": "Carson City, NV (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "98.130"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "16220",
+          "GeoName": "Casper, WY (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "93.829"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "16300",
+          "GeoName": "Cedar Rapids, IA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "88.963"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "16540",
+          "GeoName": "Chambersburg, PA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "94.642"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "16580",
+          "GeoName": "Champaign-Urbana, IL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "92.704"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "16620",
+          "GeoName": "Charleston, WV (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "88.717"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "16700",
+          "GeoName": "Charleston-North Charleston, SC (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "100.962"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "16740",
+          "GeoName": "Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "97.348"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "16820",
+          "GeoName": "Charlottesville, VA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "99.146"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "16860",
+          "GeoName": "Chattanooga, TN-GA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "91.464"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "16940",
+          "GeoName": "Cheyenne, WY (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "96.491"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "16980",
+          "GeoName": "Chicago-Naperville-Elgin, IL-IN (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "103.595"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "17020",
+          "GeoName": "Chico, CA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "101.197"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "17140",
+          "GeoName": "Cincinnati, OH-KY-IN (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "95.370"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "17300",
+          "GeoName": "Clarksville, TN-KY (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "90.947"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "17410",
+          "GeoName": "Cleveland, OH (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "93.923"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "17420",
+          "GeoName": "Cleveland, TN (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "88.080"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "17660",
+          "GeoName": "Coeur d'Alene, ID (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "98.293"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "17780",
+          "GeoName": "College Station-Bryan, TX (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "90.951"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "17820",
+          "GeoName": "Colorado Springs, CO (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "100.707"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "17860",
+          "GeoName": "Columbia, MO (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "89.438"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "17900",
+          "GeoName": "Columbia, SC (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "93.662"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "17980",
+          "GeoName": "Columbus, GA-AL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "89.296"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "18020",
+          "GeoName": "Columbus, IN (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "93.003"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "18140",
+          "GeoName": "Columbus, OH (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "95.469"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "18580",
+          "GeoName": "Corpus Christi, TX (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "92.671"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "18700",
+          "GeoName": "Corvallis, OR (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "104.017"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "18880",
+          "GeoName": "Crestview-Fort Walton Beach-Destin, FL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "97.031"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "19100",
+          "GeoName": "Dallas-Fort Worth-Arlington, TX (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "103.090"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "19140",
+          "GeoName": "Dalton, GA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "89.844"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "19300",
+          "GeoName": "Daphne-Fairhope-Foley, AL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "94.690"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "19340",
+          "GeoName": "Davenport-Moline-Rock Island, IA-IL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "89.079"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "19430",
+          "GeoName": "Dayton-Kettering-Beavercreek, OH (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "92.694"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "19460",
+          "GeoName": "Decatur, AL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "87.212"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "19500",
+          "GeoName": "Decatur, IL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "88.422"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "19660",
+          "GeoName": "Deltona-Daytona Beach-Ormond Beach, FL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "99.367"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "19740",
+          "GeoName": "Denver-Aurora-Centennial, CO (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "105.782"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "19780",
+          "GeoName": "Des Moines-West Des Moines, IA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "91.701"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "19820",
+          "GeoName": "Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "100.298"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "20020",
+          "GeoName": "Dothan, AL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "83.833"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "20100",
+          "GeoName": "Dover, DE (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "97.507"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "20220",
+          "GeoName": "Dubuque, IA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "87.328"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "20260",
+          "GeoName": "Duluth, MN-WI (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "88.768"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "20500",
+          "GeoName": "Durham-Chapel Hill, NC (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "97.572"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "20580",
+          "GeoName": "Eagle Pass, TX (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "83.805"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "20740",
+          "GeoName": "Eau Claire, WI (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "92.796"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "20940",
+          "GeoName": "El Centro, CA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "95.174"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "21060",
+          "GeoName": "Elizabethtown, KY (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "90.572"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "21140",
+          "GeoName": "Elkhart-Goshen, IN (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "90.325"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "21300",
+          "GeoName": "Elmira, NY (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "94.398"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "21340",
+          "GeoName": "El Paso, TX (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "89.912"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "21420",
+          "GeoName": "Enid, OK (Metropolitan Statistical Area) *",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "84.269",
+          "NoteRef": "*"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "21500",
+          "GeoName": "Erie, PA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "90.950"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "21660",
+          "GeoName": "Eugene-Springfield, OR (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "101.568"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "21780",
+          "GeoName": "Evansville, IN (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "91.528"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "21820",
+          "GeoName": "Fairbanks-College, AK (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "103.208"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "22020",
+          "GeoName": "Fargo, ND-MN (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "90.871"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "22140",
+          "GeoName": "Farmington, NM (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "87.707"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "22180",
+          "GeoName": "Fayetteville, NC (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "91.978"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "22220",
+          "GeoName": "Fayetteville-Springdale-Rogers, AR (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "91.353"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "22380",
+          "GeoName": "Flagstaff, AZ (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "100.325"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "22420",
+          "GeoName": "Flint, MI (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "93.034"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "22500",
+          "GeoName": "Florence, SC (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "86.774"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "22520",
+          "GeoName": "Florence-Muscle Shoals, AL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "84.817"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "22540",
+          "GeoName": "Fond du Lac, WI (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "91.643"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "22660",
+          "GeoName": "Fort Collins-Loveland, CO (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "101.128"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "22900",
+          "GeoName": "Fort Smith, AR-OK (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "85.888"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "23060",
+          "GeoName": "Fort Wayne, IN (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "92.572"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "23420",
+          "GeoName": "Fresno, CA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "102.158"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "23460",
+          "GeoName": "Gadsden, AL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "85.653"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "23540",
+          "GeoName": "Gainesville, FL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "96.733"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "23580",
+          "GeoName": "Gainesville, GA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "96.766"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "23900",
+          "GeoName": "Gettysburg, PA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "95.379"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "24020",
+          "GeoName": "Glens Falls, NY (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "94.866"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "24140",
+          "GeoName": "Goldsboro, NC (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "88.462"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "24220",
+          "GeoName": "Grand Forks, ND-MN (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "86.663"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "24260",
+          "GeoName": "Grand Island, NE (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "86.657"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "24300",
+          "GeoName": "Grand Junction, CO (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "95.476"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "24340",
+          "GeoName": "Grand Rapids-Wyoming-Kentwood, MI (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "95.546"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "24420",
+          "GeoName": "Grants Pass, OR (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "97.760"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "24500",
+          "GeoName": "Great Falls, MT (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "96.845"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "24540",
+          "GeoName": "Greeley, CO (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "100.176"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "24580",
+          "GeoName": "Green Bay, WI (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "93.086"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "24660",
+          "GeoName": "Greensboro-High Point, NC (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "92.865"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "24780",
+          "GeoName": "Greenville, NC (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "88.402"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "24860",
+          "GeoName": "Greenville-Anderson-Greer, SC (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "93.260"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "25060",
+          "GeoName": "Gulfport-Biloxi, MS (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "90.006"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "25180",
+          "GeoName": "Hagerstown-Martinsburg, MD-WV (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "94.171"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "25220",
+          "GeoName": "Hammond, LA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "84.460"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "25260",
+          "GeoName": "Hanford-Corcoran, CA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "101.612"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "25420",
+          "GeoName": "Harrisburg-Carlisle, PA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "98.650"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "25500",
+          "GeoName": "Harrisonburg, VA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "94.892"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "25540",
+          "GeoName": "Hartford-West Hartford-East Hartford, CT (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "102.746"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "25620",
+          "GeoName": "Hattiesburg, MS (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "87.633"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "25740",
+          "GeoName": "Helena, MT (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "95.675"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "25860",
+          "GeoName": "Hickory-Lenoir-Morganton, NC (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "88.486"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "25940",
+          "GeoName": "Hilton Head Island-Bluffton-Port Royal, SC (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "98.017"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "25980",
+          "GeoName": "Hinesville, GA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "93.933"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "26140",
+          "GeoName": "Homosassa Springs, FL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "93.467"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "26300",
+          "GeoName": "Hot Springs, AR (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "85.730"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "26380",
+          "GeoName": "Houma-Bayou Cane-Thibodaux, LA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "85.103"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "26420",
+          "GeoName": "Houston-Pasadena-The Woodlands, TX (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "98.629"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "26580",
+          "GeoName": "Huntington-Ashland, WV-KY-OH (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "88.422"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "26620",
+          "GeoName": "Huntsville, AL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "93.072"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "26820",
+          "GeoName": "Idaho Falls, ID (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "94.412"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "26900",
+          "GeoName": "Indianapolis-Carmel-Greenwood, IN (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "95.696"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "26980",
+          "GeoName": "Iowa City, IA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "91.509"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "27060",
+          "GeoName": "Ithaca, NY (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "103.317"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "27100",
+          "GeoName": "Jackson, MI (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "91.779"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "27140",
+          "GeoName": "Jackson, MS (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "89.048"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "27180",
+          "GeoName": "Jackson, TN (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "85.522"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "27260",
+          "GeoName": "Jacksonville, FL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "99.484"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "27340",
+          "GeoName": "Jacksonville, NC (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "92.085"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "27500",
+          "GeoName": "Janesville-Beloit, WI (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "93.703"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "27620",
+          "GeoName": "Jefferson City, MO (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "87.975"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "27740",
+          "GeoName": "Johnson City, TN (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "87.928"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "27780",
+          "GeoName": "Johnstown, PA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "85.929"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "27860",
+          "GeoName": "Jonesboro, AR (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "85.876"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "27900",
+          "GeoName": "Joplin, MO-KS (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "85.718"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "27980",
+          "GeoName": "Kahului-Wailuku, HI (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "109.393"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "28020",
+          "GeoName": "Kalamazoo-Portage, MI (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "94.840"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "28100",
+          "GeoName": "Kankakee, IL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "96.394"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "28140",
+          "GeoName": "Kansas City, MO-KS (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "92.543"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "28420",
+          "GeoName": "Kennewick-Richland, WA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "100.079"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "28450",
+          "GeoName": "Kenosha, WI (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "101.118"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "28660",
+          "GeoName": "Killeen-Temple, TX (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "91.132"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "28700",
+          "GeoName": "Kingsport-Bristol, TN-VA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "86.447"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "28740",
+          "GeoName": "Kingston, NY (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "100.709"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "28880",
+          "GeoName": "Kiryas Joel-Poughkeepsie-Newburgh, NY (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "109.422"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "28940",
+          "GeoName": "Knoxville, TN (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "92.569"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "29020",
+          "GeoName": "Kokomo, IN (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "89.648"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "29100",
+          "GeoName": "La Crosse-Onalaska, WI-MN (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "91.769"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "29180",
+          "GeoName": "Lafayette, LA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "87.209"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "29200",
+          "GeoName": "Lafayette-West Lafayette, IN (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "93.430"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "29340",
+          "GeoName": "Lake Charles, LA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "85.852"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "29420",
+          "GeoName": "Lake Havasu City-Kingman, AZ (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "94.098"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "29460",
+          "GeoName": "Lakeland-Winter Haven, FL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "97.141"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "29540",
+          "GeoName": "Lancaster, PA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "98.257"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "29620",
+          "GeoName": "Lansing-East Lansing, MI (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "94.991"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "29700",
+          "GeoName": "Laredo, TX (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "86.956"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "29740",
+          "GeoName": "Las Cruces, NM (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "90.212"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "29820",
+          "GeoName": "Las Vegas-Henderson-North Las Vegas, NV (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "100.215"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "29940",
+          "GeoName": "Lawrence, KS (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "90.243"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "30020",
+          "GeoName": "Lawton, OK (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "85.941"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "30140",
+          "GeoName": "Lebanon, PA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "93.214"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "30300",
+          "GeoName": "Lewiston, ID-WA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "91.160"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "30340",
+          "GeoName": "Lewiston-Auburn, ME (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "94.736"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "30460",
+          "GeoName": "Lexington-Fayette, KY (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "92.889"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "30500",
+          "GeoName": "Lexington Park, MD (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "100.760"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "30620",
+          "GeoName": "Lima, OH (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "89.669"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "30700",
+          "GeoName": "Lincoln, NE (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "91.581"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "30780",
+          "GeoName": "Little Rock-North Little Rock-Conway, AR (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "89.364"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "30860",
+          "GeoName": "Logan, UT-ID (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "95.927"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "30980",
+          "GeoName": "Longview, TX (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "89.485"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "31020",
+          "GeoName": "Longview-Kelso, WA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "97.545"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "31080",
+          "GeoName": "Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "113.566"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "31140",
+          "GeoName": "Louisville/Jefferson County, KY-IN (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "93.074"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "31180",
+          "GeoName": "Lubbock, TX (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "91.317"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "31340",
+          "GeoName": "Lynchburg, VA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "89.363"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "31420",
+          "GeoName": "Macon-Bibb County, GA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "88.528"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "31540",
+          "GeoName": "Madison, WI (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "97.287"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "31700",
+          "GeoName": "Manchester-Nashua, NH (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "105.657"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "31740",
+          "GeoName": "Manhattan, KS (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "90.162"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "31860",
+          "GeoName": "Mankato, MN (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "90.955"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "31900",
+          "GeoName": "Mansfield, OH (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "88.872"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "32580",
+          "GeoName": "McAllen-Edinburg-Mission, TX (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "85.895"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "32780",
+          "GeoName": "Medford, OR (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "101.433"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "32820",
+          "GeoName": "Memphis, TN-MS-AR (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "92.179"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "32900",
+          "GeoName": "Merced, CA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "98.275"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "33100",
+          "GeoName": "Miami-Fort Lauderdale-West Palm Beach, FL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "114.155"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "33140",
+          "GeoName": "Michigan City-La Porte, IN (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "91.682"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "33220",
+          "GeoName": "Midland, MI (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "91.921"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "33260",
+          "GeoName": "Midland, TX (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "95.783"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "33340",
+          "GeoName": "Milwaukee-Waukesha, WI (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "96.937"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "33460",
+          "GeoName": "Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "104.822"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "33500",
+          "GeoName": "Minot, ND (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "87.028"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "33540",
+          "GeoName": "Missoula, MT (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "96.445"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "33660",
+          "GeoName": "Mobile, AL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "88.098"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "33700",
+          "GeoName": "Modesto, CA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "104.108"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "33740",
+          "GeoName": "Monroe, LA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "83.597"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "33780",
+          "GeoName": "Monroe, MI (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "93.492"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "33860",
+          "GeoName": "Montgomery, AL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "89.682"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "34060",
+          "GeoName": "Morgantown, WV (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "93.323"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "34100",
+          "GeoName": "Morristown, TN (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "86.364"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "34580",
+          "GeoName": "Mount Vernon-Anacortes, WA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "102.443"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "34620",
+          "GeoName": "Muncie, IN (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "88.148"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "34740",
+          "GeoName": "Muskegon-Norton Shores, MI (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "92.519"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "34820",
+          "GeoName": "Myrtle Beach-Conway-North Myrtle Beach, SC (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "93.642"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "34900",
+          "GeoName": "Napa, CA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "112.554"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "34940",
+          "GeoName": "Naples-Marco Island, FL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "103.200"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "34980",
+          "GeoName": "Nashville-Davidson--Murfreesboro--Franklin, TN (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "96.338"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "35300",
+          "GeoName": "New Haven, CT (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "104.559"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "35380",
+          "GeoName": "New Orleans-Metairie, LA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "92.597"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "35620",
+          "GeoName": "New York-Newark-Jersey City, NY-NJ (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "112.563"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "35660",
+          "GeoName": "Niles, MI (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "92.370"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "35840",
+          "GeoName": "North Port-Bradenton-Sarasota, FL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "102.417"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "35980",
+          "GeoName": "Norwich-New London-Willimantic, CT (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "100.445"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "36100",
+          "GeoName": "Ocala, FL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "95.234"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "36220",
+          "GeoName": "Odessa, TX (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "93.896"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "36260",
+          "GeoName": "Ogden, UT (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "100.349"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "36420",
+          "GeoName": "Oklahoma City, OK (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "90.408"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "36500",
+          "GeoName": "Olympia-Lacey-Tumwater, WA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "103.670"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "36540",
+          "GeoName": "Omaha, NE-IA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "91.911"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "36740",
+          "GeoName": "Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "101.418"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "36780",
+          "GeoName": "Oshkosh-Neenah, WI (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "92.929"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "36980",
+          "GeoName": "Owensboro, KY (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "88.610"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "37100",
+          "GeoName": "Oxnard-Thousand Oaks-Ventura, CA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "110.534"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "37140",
+          "GeoName": "Paducah, KY-IL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "86.084"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "37340",
+          "GeoName": "Palm Bay-Melbourne-Titusville, FL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "100.005"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "37460",
+          "GeoName": "Panama City-Panama City Beach, FL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "97.296"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "37620",
+          "GeoName": "Parkersburg-Vienna, WV (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "87.066"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "37860",
+          "GeoName": "Pensacola-Ferry Pass-Brent, FL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "97.717"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "37900",
+          "GeoName": "Peoria, IL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "91.231"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "37980",
+          "GeoName": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "102.554"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "38060",
+          "GeoName": "Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "103.316"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "38240",
+          "GeoName": "Pinehurst-Southern Pines, NC (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "88.336"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "38300",
+          "GeoName": "Pittsburgh, PA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "94.671"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "38340",
+          "GeoName": "Pittsfield, MA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "95.106"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "38540",
+          "GeoName": "Pocatello, ID (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "88.906"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "38860",
+          "GeoName": "Portland-South Portland, ME (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "101.858"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "38900",
+          "GeoName": "Portland-Vancouver-Hillsboro, OR-WA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "105.421"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "38940",
+          "GeoName": "Port St. Lucie, FL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "100.228"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "39150",
+          "GeoName": "Prescott Valley-Prescott, AZ (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "98.255"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "39300",
+          "GeoName": "Providence-Warwick, RI-MA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "101.773"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "39340",
+          "GeoName": "Provo-Orem-Lehi, UT (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "98.232"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "39380",
+          "GeoName": "Pueblo, CO (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "91.762"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "39460",
+          "GeoName": "Punta Gorda, FL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "100.525"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "39540",
+          "GeoName": "Racine-Mount Pleasant, WI (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "95.961"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "39580",
+          "GeoName": "Raleigh-Cary, NC (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "98.157"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "39660",
+          "GeoName": "Rapid City, SD (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "89.160"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "39740",
+          "GeoName": "Reading, PA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "97.060"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "39820",
+          "GeoName": "Redding, CA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "100.684"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "39900",
+          "GeoName": "Reno, NV (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "101.014"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "40060",
+          "GeoName": "Richmond, VA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "97.858"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "40140",
+          "GeoName": "Riverside-San Bernardino-Ontario, CA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "106.442"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "40220",
+          "GeoName": "Roanoke, VA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "93.618"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "40340",
+          "GeoName": "Rochester, MN (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "90.821"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "40380",
+          "GeoName": "Rochester, NY (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "97.035"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "40420",
+          "GeoName": "Rockford, IL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "92.154"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "40580",
+          "GeoName": "Rocky Mount, NC (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "88.012"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "40660",
+          "GeoName": "Rome, GA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "90.161"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "40900",
+          "GeoName": "Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "106.670"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "40980",
+          "GeoName": "Saginaw, MI (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "90.891"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "41060",
+          "GeoName": "St. Cloud, MN (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "87.632"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "41100",
+          "GeoName": "St. George, UT (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "97.321"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "41140",
+          "GeoName": "St. Joseph, MO-KS (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "86.382"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "41180",
+          "GeoName": "St. Louis, MO-IL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "95.088"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "41420",
+          "GeoName": "Salem, OR (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "103.649"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "41500",
+          "GeoName": "Salinas, CA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "109.042"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "41540",
+          "GeoName": "Salisbury, MD (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "95.617"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "41620",
+          "GeoName": "Salt Lake City-Murray, UT (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "100.868"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "41660",
+          "GeoName": "San Angelo, TX (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "92.453"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "41700",
+          "GeoName": "San Antonio-New Braunfels, TX (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "94.716"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "41740",
+          "GeoName": "San Diego-Chula Vista-Carlsbad, CA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "111.887"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "41780",
+          "GeoName": "Sandusky, OH (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "89.281"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "41860",
+          "GeoName": "San Francisco-Oakland-Fremont, CA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "115.613"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "41940",
+          "GeoName": "San Jose-Sunnyvale-Santa Clara, CA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "110.423"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "42020",
+          "GeoName": "San Luis Obispo-Paso Robles, CA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "108.596"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "42100",
+          "GeoName": "Santa Cruz-Watsonville, CA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "109.896"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "42140",
+          "GeoName": "Santa Fe, NM (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "98.767"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "42200",
+          "GeoName": "Santa Maria-Santa Barbara, CA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "108.798"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "42220",
+          "GeoName": "Santa Rosa-Petaluma, CA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "107.784"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "42340",
+          "GeoName": "Savannah, GA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "95.206"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "42540",
+          "GeoName": "Scranton--Wilkes-Barre, PA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "93.556"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "42660",
+          "GeoName": "Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "111.133"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "42680",
+          "GeoName": "Sebastian-Vero Beach-West Vero Corridor, FL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "98.308"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "42700",
+          "GeoName": "Sebring, FL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "92.470"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "43100",
+          "GeoName": "Sheboygan, WI (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "94.014"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "43300",
+          "GeoName": "Sherman-Denison, TX (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "93.771"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "43340",
+          "GeoName": "Shreveport-Bossier City, LA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "84.766"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "43420",
+          "GeoName": "Sierra Vista-Douglas, AZ (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "89.243"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "43580",
+          "GeoName": "Sioux City, IA-NE-SD (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "86.454"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "43620",
+          "GeoName": "Sioux Falls, SD-MN (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "90.631"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "43640",
+          "GeoName": "Slidell-Mandeville-Covington, LA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "92.726"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "43780",
+          "GeoName": "South Bend-Mishawaka, IN-MI (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "92.858"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "43900",
+          "GeoName": "Spartanburg, SC (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "91.051"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "44060",
+          "GeoName": "Spokane-Spokane Valley, WA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "100.346"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "44100",
+          "GeoName": "Springfield, IL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "92.745"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "44140",
+          "GeoName": "Springfield, MA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "96.061"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "44180",
+          "GeoName": "Springfield, MO (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "88.585"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "44220",
+          "GeoName": "Springfield, OH (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "90.482"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "44300",
+          "GeoName": "State College, PA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "96.762"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "44420",
+          "GeoName": "Staunton-Stuarts Draft, VA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "91.128"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "44700",
+          "GeoName": "Stockton-Lodi, CA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "105.089"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "44940",
+          "GeoName": "Sumter, SC (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "88.020"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "45060",
+          "GeoName": "Syracuse, NY (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "95.742"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "45220",
+          "GeoName": "Tallahassee, FL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "93.919"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "45300",
+          "GeoName": "Tampa-St. Petersburg-Clearwater, FL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "100.890"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "45460",
+          "GeoName": "Terre Haute, IN (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "87.797"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "45500",
+          "GeoName": "Texarkana, TX-AR (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "84.012"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "45780",
+          "GeoName": "Toledo, OH (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "91.455"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "45820",
+          "GeoName": "Topeka, KS (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "88.820"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "45900",
+          "GeoName": "Traverse City, MI (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "93.372"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "45940",
+          "GeoName": "Trenton-Princeton, NJ (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "103.180"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "46060",
+          "GeoName": "Tucson, AZ (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "96.896"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "46140",
+          "GeoName": "Tulsa, OK (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "89.214"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "46220",
+          "GeoName": "Tuscaloosa, AL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "87.722"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "46300",
+          "GeoName": "Twin Falls, ID (Metropolitan Statistical Area) *",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "92.108",
+          "NoteRef": "*"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "46340",
+          "GeoName": "Tyler, TX (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "92.156"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "46520",
+          "GeoName": "Urban Honolulu, HI (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "110.961"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "46540",
+          "GeoName": "Utica-Rome, NY (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "92.678"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "46660",
+          "GeoName": "Valdosta, GA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "88.271"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "46700",
+          "GeoName": "Vallejo, CA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "108.479"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "47020",
+          "GeoName": "Victoria, TX (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "89.839"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "47220",
+          "GeoName": "Vineland, NJ (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "95.968"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "47260",
+          "GeoName": "Virginia Beach-Chesapeake-Norfolk, VA-NC (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "97.941"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "47300",
+          "GeoName": "Visalia, CA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "99.825"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "47380",
+          "GeoName": "Waco, TX (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "92.550"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "47460",
+          "GeoName": "Walla Walla, WA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "98.519"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "47580",
+          "GeoName": "Warner Robins, GA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "93.789"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "47900",
+          "GeoName": "Washington-Arlington-Alexandria, DC-VA-MD-WV (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "108.884"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "47930",
+          "GeoName": "Waterbury-Shelton, CT (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "99.778"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "47940",
+          "GeoName": "Waterloo-Cedar Falls, IA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "87.057"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "48060",
+          "GeoName": "Watertown-Fort Drum, NY (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "87.690"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "48140",
+          "GeoName": "Wausau, WI (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "92.651"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "48260",
+          "GeoName": "Weirton-Steubenville, WV-OH (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "89.024"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "48300",
+          "GeoName": "Wenatchee-East Wenatchee, WA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "103.855"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "48540",
+          "GeoName": "Wheeling, WV-OH (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "88.323"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "48620",
+          "GeoName": "Wichita, KS (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "88.946"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "48660",
+          "GeoName": "Wichita Falls, TX (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "89.513"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "48680",
+          "GeoName": "Wildwood-The Villages, FL (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "85.424"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "48700",
+          "GeoName": "Williamsport, PA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "92.350"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "48900",
+          "GeoName": "Wilmington, NC (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "96.422"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "49020",
+          "GeoName": "Winchester, VA-WV (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "96.450"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "49180",
+          "GeoName": "Winston-Salem, NC (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "92.043"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "49340",
+          "GeoName": "Worcester, MA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "102.523"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "49420",
+          "GeoName": "Yakima, WA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "95.545"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "49620",
+          "GeoName": "York-Hanover, PA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "96.000"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "49660",
+          "GeoName": "Youngstown-Warren, OH (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "87.394"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "49700",
+          "GeoName": "Yuba City, CA (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "104.233"
+        },
+        {
+          "Code": "MARPP-1",
+          "GeoFips": "49740",
+          "GeoName": "Yuma, AZ (Metropolitan Statistical Area)",
+          "TimePeriod": "2024",
+          "CL_UNIT": "Index",
+          "UNIT_MULT": "0",
+          "DataValue": "92.706"
+        }
+      ],
+      "Notes": [
+        {
+          "NoteRef": "*",
+          "NoteText": "Regional Price Parities are not available for Enid, OK prior to 2013, Twin Falls, ID prior to 2015, and Kiryas Joel-Poughkeepsie-Newburgh, NY (Metropolitan Statistical Area) prior to 2016."
+        },
+        {
+          "NoteRef": " ",
+          "NoteText": "Metropolitan Areas are defined (geographically delineated) by the Office of Management and Budget (OMB) bulletin no. 23-01 issued July 21, 2023."
+        },
+        {
+          "NoteRef": " ",
+          "NoteText": "Last updated: February 19, 2026-- new statistics for 2024; revised statistics for 2008-2023."
+        }
+      ]
+    }
+  }
+}
